@@ -1,0 +1,14 @@
+{
+  "name": "advanced-discord-coin-bot",
+  "version": "1.0.0",
+  "description": "An advanced Discord bot for managing a coin system with database support and embeds.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.0.0",
+    "dotenv": "^16.0.0",
+    "sqlite3": "^5.0.0"
+  }
+}
